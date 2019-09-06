@@ -1,0 +1,256 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HMap2",
+            "request": "launch",
+            "mainClass": "HMap2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HMap1",
+            "request": "launch",
+            "mainClass": "HMap1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "Demo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListIteratorDemo",
+            "request": "launch",
+            "mainClass": "ListIteratorDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IteratorDemo3",
+            "request": "launch",
+            "mainClass": "IteratorDemo3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IteratorDemo1",
+            "request": "launch",
+            "mainClass": "IteratorDemo1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDequeExample",
+            "request": "launch",
+            "mainClass": "ArrayDequeExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PriorityQueueExample",
+            "request": "launch",
+            "mainClass": "PriorityQueueExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueExample1",
+            "request": "launch",
+            "mainClass": "QueueExample1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P18",
+            "request": "launch",
+            "mainClass": "P18"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P17",
+            "request": "launch",
+            "mainClass": "P17"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P16",
+            "request": "launch",
+            "mainClass": "P16"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P15",
+            "request": "launch",
+            "mainClass": "P15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P14",
+            "request": "launch",
+            "mainClass": "P14"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P13",
+            "request": "launch",
+            "mainClass": "P13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P12",
+            "request": "launch",
+            "mainClass": "P12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P11",
+            "request": "launch",
+            "mainClass": "P11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P10",
+            "request": "launch",
+            "mainClass": "P10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P9",
+            "request": "launch",
+            "mainClass": "P9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P8",
+            "request": "launch",
+            "mainClass": "P8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P7",
+            "request": "launch",
+            "mainClass": "P7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P6",
+            "request": "launch",
+            "mainClass": "P6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P5",
+            "request": "launch",
+            "mainClass": "P5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P4",
+            "request": "launch",
+            "mainClass": "P4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P3",
+            "request": "launch",
+            "mainClass": "P3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P2",
+            "request": "launch",
+            "mainClass": "P2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P1",
+            "request": "launch",
+            "mainClass": "P1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C12",
+            "request": "launch",
+            "mainClass": "C12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C11",
+            "request": "launch",
+            "mainClass": "C11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C10",
+            "request": "launch",
+            "mainClass": "C10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C9",
+            "request": "launch",
+            "mainClass": "C9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C8",
+            "request": "launch",
+            "mainClass": "C8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C7",
+            "request": "launch",
+            "mainClass": "C7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C6",
+            "request": "launch",
+            "mainClass": "C6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumExample",
+            "request": "launch",
+            "mainClass": "EnumExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C5",
+            "request": "launch",
+            "mainClass": "C5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoopExample",
+            "request": "launch",
+            "mainClass": "LoopExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C4",
+            "request": "launch",
+            "mainClass": "C4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExample",
+            "request": "launch",
+            "mainClass": "JavaExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C3",
+            "request": "launch",
+            "mainClass": "C3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C2",
+            "request": "launch",
+            "mainClass": "C2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - C1",
+            "request": "launch",
+            "mainClass": "C1"
+        }
+    ]
+}
